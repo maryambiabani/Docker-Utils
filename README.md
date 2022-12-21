@@ -1,5 +1,5 @@
 # Docker-Utils
-to add to yur job and exec job every hour
+to add to your job and exec script each hour
 
 crontab -e
 
